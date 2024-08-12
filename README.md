@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm S A Y A P U R E D D Y   S A I   S U R Y A   T E J A</h1>
+<h1 align="center">
+  <span class="wave">👋</span> 
+  Hi, I'm 
+  <span class="typewriter">sayapureddy sai surya teja</span>
+</h1>
 <h3 align="center">dedicated developer and researcher with a deep passion for **Artificial Intelligence** and **Robotics**. My work revolves around pushing the frontiers of technology, with a strong focus on autonomous systems, machine learning, and computer vision.</h3>
 
 - 🌱 I’m currently learning **ROS2 jazzy**
