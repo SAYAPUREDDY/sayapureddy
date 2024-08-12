@@ -3,6 +3,44 @@
   Hi, I'm 
   <span class="typewriter">sayapureddy sai surya teja</span>
 </h1>
+
+<h3 align="center">Dedicated developer and researcher with a deep passion for <strong>Artificial Intelligence</strong> and <strong>Robotics</strong>. My work revolves around pushing the frontiers of technology, with a strong focus on autonomous systems, machine learning, and computer vision.</h3>
+
+<style>
+  .typewriter {
+    font-family: 'Courier New', Courier, monospace;
+    display: inline-block;
+    overflow: hidden;
+    border-right: 3px solid;
+    white-space: nowrap;
+    animation: typing 3.5s steps(30, end), blink 0.75s step-end infinite;
+  }
+
+  @keyframes typing {
+    from { width: 0; }
+    to { width: 100%; }
+  }
+
+  @keyframes blink {
+    from, to { border-color: transparent; }
+    50% { border-color: black; }
+  }
+
+  .wave {
+    display: inline-block;
+    animation: wave-animation 2s infinite;
+  }
+
+  @keyframes wave-animation {
+    0% { transform: rotate(0deg); }
+    20% { transform: rotate(-10deg); }
+    40% { transform: rotate(12deg); }
+    60% { transform: rotate(-10deg); }
+    80% { transform: rotate(9deg); }
+    100% { transform: rotate(0deg); }
+  }
+</style>
+
 <h3 align="center">dedicated developer and researcher with a deep passion for **Artificial Intelligence** and **Robotics**. My work revolves around pushing the frontiers of technology, with a strong focus on autonomous systems, machine learning, and computer vision.</h3>
 
 - 🌱 I’m currently learning **ROS2 jazzy**
