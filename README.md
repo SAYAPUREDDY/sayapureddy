@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF0000&width=500&lines=I'm+Sayapureddy+Sai+Surya+Teja)](https://git.io/typing-svg)
 <h3 align="center">I’m an AI and Machine Learning enthusiast focused on building intelligent systems that push the boundaries of innovation. My work spans diverse AI domains like natural language processing, computer vision, and conversational AI. Always excited to explore new challenges and collaborate on transformative technologies!.</h3>
 
-- 🌱 I’m currently learning **ROS2 jazzy**
+- 🌱 Currently diving into LangGraph and advanced retrieval-augmented generation (RAG) techniques
 
 - 📫 How to reach me **sayapureddys@gmail.com**
 
