@@ -7,9 +7,9 @@
 ### 🌟 About Me
 
 - 🌱 **Currently Exploring:** LangGraph and advanced **retrieval-augmented generation (RAG)** techniques  
-- 🤖 Passionate about **autonomous mobile robots**, currently working with **ROS Noetic**  
+- 🤖 Passionate about **autonomous mobile robots**, currently working with **ROS Jazzy**  
 - 💻 Dedicated to advancing **natural language processing** for real-world applications  
-- 💬 **Ask Me About:** AI, ML, NLP, Computer Vision, or Robotics  
+- 💬 **Ask Me About:** AI, ML, NLP, Computer Vision
 
 ---
 ### 📬 Let's Connect
